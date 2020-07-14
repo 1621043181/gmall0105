@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fastdfs-client-java-1.27-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fastdfs-client-java/target/fastdfs-client-java-1.27-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gmall-manage-web-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gmall-manage-web/target/gmall-manage-web-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
